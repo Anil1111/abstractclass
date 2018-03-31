@@ -104,6 +104,7 @@ namespace @interface
         }
     }
 
+
     class Program
     {
         static int GetAngles(ICountOfAngles countAngles)
